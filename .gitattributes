@@ -1,0 +1,5 @@
+# All files that are binary and should not be modified
+*.n64 binary
+*.v64 binary
+*.z64 binary
+*.ndd binary
