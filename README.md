@@ -8,8 +8,8 @@ Another good source is [Peter Lemon's N64 test ROMs](https://github.com/PeterLem
 
 If there are any ROMs I have forgotten, or if you think any of the ROMs have issues, please let me know by emailing me or creating an issue.
 
-## Pornographic ROMs
-I decided I will not have any pornographic ROMs in this repository. That might offend people, break GitHub's terms, or generally get me in trouble.
+## ROMs with nudity
+I decided I will not have any ROMs with nudity in this repository. That might offend people, break GitHub's terms, or generally get me in trouble.
 
 If it were up to me, I would still upload them since they are technically a good benchmark/test ROM since they decode JPEG images and a bunch of other fancy stuff. 
 
