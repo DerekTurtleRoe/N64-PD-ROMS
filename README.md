@@ -1,6 +1,6 @@
 # N64-PD-ROMS
 
-### A repository of public domain ROMs for the Nintendo 64
+## A repository of public domain ROMs for the Nintendo 64
 
 All of the ROMs in this repository are public domain unless stated otherwise.
 
